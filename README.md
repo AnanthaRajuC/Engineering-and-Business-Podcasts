@@ -1,7 +1,7 @@
 # Engineering and Business Podcasts
 Compilation of Software Engineering and Business podcasts
 
-| Podcast  	|      Host     	|      Genre     	|      Description     	|
+| Podcast  	|      Host     	|      Genre/Topic     	|      Description     	|
 |----------	|:------	|:------	|:------	|
 |<a href="http://unchainedpodcast.co/" target="_blank" >Unchained</a>|<a href="https://twitter.com/laurashin?lang=en" target="_blank" >Laura Shin</a>|Blockchain & Cryptocurrency|In this podcast, host Laura Shin talks with industry pioneers across tech, financial services, health care, government and other sectors about how the blockchain and cryptocurrency will open up new opportunities for incumbents, startups and everyday people to interact more efficiently, directly and globally.|
 |<a href="http://unconfirmed.libsyn.com/" target="_blank" >Unconfirmed</a>|<a href="https://twitter.com/laurashin?lang=en" target="_blank" >Laura Shin</a>|Blockchain & Cryptocurrency|Insights and Analysis From the Top Minds in Crypto.|
@@ -18,9 +18,9 @@ Compilation of Software Engineering and Business podcasts
 
 ## CTO Series
 
-Podcasts featuring CTO's or directly aimed towards CTO's.
+Podcasts featuring CTO's or directly aimed towards an audience of CTO's.
 
-| Podcast  	|      Host     	|      Genre     	|      Description     	|
+| Podcast  	|      Host     	|      Genre/Topic     	|      Description     	|
 |----------	|:------	|:------	|:------	|
 |<a href="https://www.thectoadvisor.com/podcast/" target="_blank" >The CTO Advisor</a>|<a href="https://twitter.com/@CTOAdvisor" target="_blank" >Keith Townsend</a>|Infrastructure, Future Technologies|A conversation geared toward the CTO or Infrastructure Architect. Shows topics focus on future technologies and keeping today's infrastructure in-line with business requirements.|
 |<a href="https://startupcto.io/" target="_blank" >StartupCTO.io</a>|<a href="https://twitter.com/owocki" target="_blank" >Owocki</a> and <a href="https://twitter.com/miles_matthias" target="_blank" >Miles Matthias</a>|Startup Engineering, Leadership|Startup engineering leadership podcast; because your CS degree didn't teach you to lead.|
