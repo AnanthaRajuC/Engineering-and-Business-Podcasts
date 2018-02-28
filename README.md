@@ -1,13 +1,6 @@
 # Engineering and Business Podcasts
 Compilation of Software Engineering and Business podcasts
 
-| Podcast  	|      Host     	|      Genre/Topic     	|      Description     	|
-|----------	|:------	|:------	|:------	|
-|<a href="https://softwareengineeringdaily.com/" target="_blank" >Software Engineering Daily</a>|<a href="https://twitter.com/the_prion?lang=en" target="_blank" >Jeff Meyerson</a>|Software Engineering|Features daily interviews about technical software topics.|
-|<a href="http://developeronfire.com/" target="_blank" >Developer on Fire</a>|<a href="https://twitter.com/raelyard" target="_blank" >Dave Rael</a>|Developer Bio's|Inspiring software developers tell their stories. The podcast that shares the humanity of developers and tells stories of some of the amazing people in software.|
-|<a href="https://www.codenewbie.org/podcast" target="_blank" >CodeNewbie</a>|<a href="https://twitter.com/saronyitbarek" target="_blank" >Saron</a>|Tech News|Stories from people on their coding journey.|
-|<a href="https://egghead.simplecast.fm/" target="_blank" >egghead.io developer chats</a>|<a href="https://twitter.com/johnlindquist" target="_blank" >John Lindquist</a> and <a href="https://twitter.com/jhooks" target="_blank" >Joel Hooks</a>|Web Development|egghead.io instructors talk about the latest and greatest in web development. These conversations will take you deeper into the human side of coding web applications and deliver insight that you might not expect.|
-
 ## CTO Series
 
 Podcasts featuring CTO's or directly aimed towards an audience of CTO's.
@@ -47,3 +40,14 @@ Podcasts featuring startup and business stories.
 |----------	|:------	|:------	|:------	|
 |<a href="https://mastersofscale.com/" target="_blank" >Masters of Scale</a>|<a href="https://twitter.com/reidhoffman" target="_blank" >Reid Hoffman</a>|Startup Leadership|An original podcast hosted by LinkedIn Co-Founder and Greylock Partner Reid Hoffman showing how companies grow from zero to a gazillion. The series unfolds like a music-infused detective story as Hoffman tests his theories with famous founders. Masters of Scale is the first American media program to commit to a 50-50 gender balance for guests.|
 |<a href="https://www.npr.org/podcasts/510313/how-i-built-this" target="_blank" >How I Built This with Guy Raz</a>|<a href="https://twitter.com/guyraz" target="_blank" >Guy Raz</a>|Business|a podcast about innovators, entrepreneurs, idealists, and the stories behind the movements they built.|
+
+## Various
+
+Podcasts featuring various Engineering and Technology related topics.
+
+| Podcast  	|      Host     	|      Genre/Topic     	|      Description     	|
+|----------	|:------	|:------	|:------	|
+|<a href="https://softwareengineeringdaily.com/" target="_blank" >Software Engineering Daily</a>|<a href="https://twitter.com/the_prion?lang=en" target="_blank" >Jeff Meyerson</a>|Software Engineering|Features daily interviews about technical software topics.|
+|<a href="http://developeronfire.com/" target="_blank" >Developer on Fire</a>|<a href="https://twitter.com/raelyard" target="_blank" >Dave Rael</a>|Developer Bio's|Inspiring software developers tell their stories. The podcast that shares the humanity of developers and tells stories of some of the amazing people in software.|
+|<a href="https://www.codenewbie.org/podcast" target="_blank" >CodeNewbie</a>|<a href="https://twitter.com/saronyitbarek" target="_blank" >Saron</a>|Tech News|Stories from people on their coding journey.|
+|<a href="https://egghead.simplecast.fm/" target="_blank" >egghead.io developer chats</a>|<a href="https://twitter.com/johnlindquist" target="_blank" >John Lindquist</a> and <a href="https://twitter.com/jhooks" target="_blank" >Joel Hooks</a>|Web Development|egghead.io instructors talk about the latest and greatest in web development. These conversations will take you deeper into the human side of coding web applications and deliver insight that you might not expect.|
