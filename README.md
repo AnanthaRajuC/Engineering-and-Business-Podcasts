@@ -22,13 +22,21 @@ Podcasts featuring Organization specific topics (products), hosted by respective
 |<a href="https://aws.amazon.com/podcasts/aws-podcast/" target="_blank" >AWS Podcast</a>|<a href="https://twitter.com/simon_elisha" target="_blank" >Simon Elisha</a> and <a href="https://twitter.com/jeffbarr" target="_blank" >Jeff Barr</a>|Amazon Web Services, Cloud|Simon Elisha & Jeff Barr discuss various aspects of the AWS offering. Each podcast include AWS news, tech tips, and interviews with startups, AWS partners, and AWS employees.|
 |<a href="https://soundcloud.com/pivotalconversations" target="_blank" >Pivotal Conversations</a>|<a href="https://twitter.com/rseroter" target="_blank" >Richard Seroter</a> and <a href="https://twitter.com/cote" target="_blank" >Michael Coté</a>|Pivotal, Cloud Native|Richard Seroter and Coté talk about recent news in the cloud native world and discuss topics around organizations transforming to cloud.|
 |<a href="https://soundcloud.com/pivotal-insights" target="_blank" >Pivotal Insights</a>|<a href="https://twitter.com/jeffreyfkelly" target="_blank" >Jeff Kelly</a>|Pivotal, Cloud Native|Pivotal Insights is a regular podcast where we talk about the transformative power that cloud-native platforms, modern application development and analytics have to unlock business value.|
+
+
+
+## O'Reilly Media
+
+Podcasts by O'Reilly Media covering Software Engineering, Bots, Security, Data Science, Emerging Technologies and UI/UX among others.
+
+| Podcast  	|      Host     	|      Genre/Topic     	|      Description     	|
+|----------	|:------	|:------	|:------	|
 |<a href="https://soundcloud.com/oreilly-radar/sets/oreilly-programming-podcast" target="_blank" >O'Reilly Programming Podcast</a>| |Open Source, Programming|Features conversations that give developers, engineers, and architects tips on getting projects done better and faster.|
 |<a href="https://soundcloud.com/oreilly-radar/sets/the-oreilly-data-show-podcast" target="_blank" >The O'Reilly Data Show Podcast</a>| |Data Science, AI|Explores the opportunities and techniques driving big data and data science.|
 |<a href="https://soundcloud.com/oreilly-radar/sets/oreilly-bots-podcast" target="_blank" >O'Reilly Bots Podcast</a>| |Bots|Bots.|
 |<a href="https://soundcloud.com/oreilly-radar/sets/oreilly-security-podcast" target="_blank" >O'Reilly Security Podcast</a>| |Security|Examines the challenges and opportunities for security practitioners, with a focus on the people on the frontlines of security, working to build better defenses.|
 |<a href="https://soundcloud.com/oreilly-radar/sets/oreilly-design-podcast" target="_blank" >O'Reilly Design Podcast</a>| |Design, UI, UX|Explores how experience design -- and experience designers -- are shaping business, the Internet of Things, and other domains.|
 |<a href="https://soundcloud.com/oreilly-radar/sets/oreilly-media-podcast" target="_blank" >O'Reilly Media Podcast</a>| |Emerging Technology, Innovation|Features interviews with the people working on the forefront of technology.|
-
 
 ## Blockchain and Crypto
 
