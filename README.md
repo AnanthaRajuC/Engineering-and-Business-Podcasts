@@ -46,7 +46,7 @@ Podcasts featuring Blockchain and Crypto related topics and news.
 |----------	|:------	|:------	|:------	|
 |<a href="http://unchainedpodcast.co/" target="_blank" >Unchained</a>|<a href="https://twitter.com/laurashin?lang=en" target="_blank" >Laura Shin</a>|Blockchain & Cryptocurrency|In this podcast, host Laura Shin talks with industry pioneers across tech, financial services, health care, government and other sectors about how the blockchain and cryptocurrency will open up new opportunities for incumbents, startups and everyday people to interact more efficiently, directly and globally.|
 |<a href="http://unconfirmed.libsyn.com/" target="_blank" >Unconfirmed</a>|<a href="https://twitter.com/laurashin?lang=en" target="_blank" >Laura Shin</a>|Blockchain & Cryptocurrency|Insights and Analysis From the Top Minds in Crypto.|
-|<a href="https://soundcloud.com/user-922479561" target="_blank" >What Bitcoin Did</a>|<a href="https://twitter.com/whatbitcoindid" target="_blank" >Peter McCormack</a>|Blockchain & Cryptocurrency|Crypto Interviews|
+|<a href="https://soundcloud.com/what-bitcoin-did" target="_blank" >What Bitcoin Did</a>|<a href="https://twitter.com/whatbitcoindid" target="_blank" >Peter McCormack</a>|Blockchain & Cryptocurrency|Crypto Interviews|
 
 ## Startup Leadership, Business
 
