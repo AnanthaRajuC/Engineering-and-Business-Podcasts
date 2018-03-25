@@ -36,7 +36,7 @@ Podcasts by O'Reilly Media covering Software Engineering, Bots, Security, Data S
 |<a href="https://soundcloud.com/oreilly-radar/sets/oreilly-bots-podcast" target="_blank" >O'Reilly Bots Podcast</a>| |Bots|Bots.|
 |<a href="https://soundcloud.com/oreilly-radar/sets/oreilly-security-podcast" target="_blank" >O'Reilly Security Podcast</a>| |Security|Examines the challenges and opportunities for security practitioners, with a focus on the people on the frontlines of security, working to build better defenses.|
 |<a href="https://soundcloud.com/oreilly-radar/sets/oreilly-design-podcast" target="_blank" >O'Reilly Design Podcast</a>| |Design, UI, UX|Explores how experience design -- and experience designers -- are shaping business, the Internet of Things, and other domains.|
-|<a href="https://soundcloud.com/oreilly-radar/sets/oreilly-media-podcast" target="_blank" >O'Reilly Media Podcast</a>| |Emerging Technology, Innovation|Features interviews with the people working on the forefront of technology.|
+|<a href="https://soundcloud.com/oreilly-radar/sets/oreilly-media-podcast" target="_blank" >O'Reilly Media Podcast</a>| |<a href="https://en.wikipedia.org/wiki/Emerging_technologies" target="_blank" >Emerging Technologies</a>, Innovation|Features interviews with the people working on the forefront of technology.|
 
 ## Blockchain and Crypto
 
