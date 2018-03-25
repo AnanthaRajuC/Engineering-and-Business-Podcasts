@@ -25,6 +25,7 @@ Podcasts featuring Organization specific topics (products), hosted by respective
 |<a href="https://soundcloud.com/oreilly-radar/sets/oreilly-programming-podcast" target="_blank" >O'Reilly Programming Podcast</a>| |Open Source, Programming|Features conversations that give developers, engineers, and architects tips on getting projects done better and faster.|
 |<a href="https://soundcloud.com/oreilly-radar/sets/the-oreilly-data-show-podcast" target="_blank" >The O'Reilly Data Show Podcast</a>| |Data Science, AI|Explores the opportunities and techniques driving big data and data science.|
 |<a href="https://soundcloud.com/oreilly-radar/sets/oreilly-bots-podcast" target="_blank" >O'Reilly Bots Podcast</a>| |Bots|Bots.|
+|<a href="https://soundcloud.com/oreilly-radar/sets/oreilly-security-podcast" target="_blank" >O'Reilly Security Podcast</a>| |Security|Examines the challenges and opportunities for security practitioners, with a focus on the people on the frontlines of security, working to build better defenses.|
 
 ## Blockchain and Crypto
 
