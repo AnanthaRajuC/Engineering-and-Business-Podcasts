@@ -1,7 +1,7 @@
 # Engineering and Business Podcasts
 Compilation of Software Engineering and Business podcasts
 
-<a href="https://soundcloud.com/user-268072561/sets/software-engineering-and" target="_blank" >SoundCloud Playlist</a> featuring the below podcasts available on the said platform.
+<a href="https://soundcloud.com/user-268072561/sets/software-engineering-and-1" target="_blank" >SoundCloud Playlist</a> featuring the below podcasts available on the said platform.
 
 ## CTO Series
 
