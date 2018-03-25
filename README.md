@@ -24,6 +24,7 @@ Podcasts featuring Organization specific topics (products), hosted by respective
 |<a href="https://soundcloud.com/pivotal-insights" target="_blank" >Pivotal Insights</a>|<a href="https://twitter.com/jeffreyfkelly" target="_blank" >Jeff Kelly</a>|Pivotal, Cloud Native|Pivotal Insights is a regular podcast where we talk about the transformative power that cloud-native platforms, modern application development and analytics have to unlock business value.|
 |<a href="https://soundcloud.com/oreilly-radar/sets/oreilly-programming-podcast" target="_blank" >O'Reilly Programming Podcast</a>| |Open Source, Programming|Features conversations that give developers, engineers, and architects tips on getting projects done better and faster.|
 |<a href="https://soundcloud.com/oreilly-radar/sets/the-oreilly-data-show-podcast" target="_blank" >The O'Reilly Data Show Podcast</a>| |Data Science, AI|Explores the opportunities and techniques driving big data and data science.|
+|<a href="https://soundcloud.com/oreilly-radar/sets/oreilly-bots-podcast" target="_blank" >O'Reilly Bots Podcast</a>| |Bots|Bots.|
 
 ## Blockchain and Crypto
 
