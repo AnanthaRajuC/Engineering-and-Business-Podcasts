@@ -23,6 +23,7 @@ Podcasts featuring Organization specific topics (products), hosted by respective
 |<a href="https://soundcloud.com/pivotalconversations" target="_blank" >Pivotal Conversations</a>|<a href="https://twitter.com/rseroter" target="_blank" >Richard Seroter</a> and <a href="https://twitter.com/cote" target="_blank" >Michael Coté</a>|Pivotal, Cloud Native|Richard Seroter and Coté talk about recent news in the cloud native world and discuss topics around organizations transforming to cloud.|
 |<a href="https://soundcloud.com/pivotal-insights" target="_blank" >Pivotal Insights</a>|<a href="https://twitter.com/jeffreyfkelly" target="_blank" >Jeff Kelly</a>|Pivotal, Cloud Native|Pivotal Insights is a regular podcast where we talk about the transformative power that cloud-native platforms, modern application development and analytics have to unlock business value.|
 |<a href="https://soundcloud.com/oreilly-radar/sets/oreilly-programming-podcast" target="_blank" >O'Reilly Programming Podcast</a>| |Open Source, Programming|Features conversations that give developers, engineers, and architects tips on getting projects done better and faster.|
+|<a href="https://soundcloud.com/oreilly-radar/sets/the-oreilly-data-show-podcast" target="_blank" >The O'Reilly Data Show Podcast</a>| |Data Science, AI|Explores the opportunities and techniques driving big data and data science.|
 
 ## Blockchain and Crypto
 
