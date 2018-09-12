@@ -8,6 +8,7 @@ Compilation of Software Engineering and Business podcasts
 | Blog  	|      Author     	|      Subject     	|      Description     	|
 |----------	|:------	|:------	|:------	|
 |<a href="http://www.kennybastani.com/" target="_blank" >Kenny Bastani</a>|<a href="https://twitter.com/kennybastani" target="_blank" >Kenny Bastani</a>|Software Engineering|About building software - Microservices, Cloud Native Java, etc.,|
+|<a href="https://martinfowler.com/" target="_blank" >Martin Fowler</a>|<a href="https://twitter.com/martinfowler" target="_blank" >Martin Fowler</a>|Software Design|About various aspects of software development.|
 
 ## CTO Series
 
