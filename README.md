@@ -3,6 +3,12 @@ Compilation of Software Engineering and Business podcasts
 
 <a href="https://soundcloud.com/user-268072561/sets/sw-engineering-podcasts" target="_blank" >SoundCloud Playlist</a> featuring the below podcasts available on the said platform.
 
+## Blogs
+
+| Blog  	|      Author     	|      Subject     	|      Description     	|
+|----------	|:------	|:------	|:------	|
+|<a href="http://www.kennybastani.com/" target="_blank" >Kenny Bastani</a>|<a href="https://twitter.com/kennybastani" target="_blank" >Kenny Bastani</a>|Software Engineering|About building software - Microservices, Cloud Native Java, etc.,|
+
 ## CTO Series
 
 Podcasts featuring CTO's or directly aimed towards an audience of CTO's.
