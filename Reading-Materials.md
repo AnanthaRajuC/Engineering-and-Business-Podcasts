@@ -3,3 +3,11 @@
 |Book|Page Count|Author(s)|Subject|Code|
 |----------|------|------|------|------|
 |<a href="https://www.manning.com/books/spring-microservices-in-action" target="_blank" >Spring Microservices in Action</a>|384|<a href="https://github.com/carnellj" target="_blank" >John Carnell</a>|Java, Spring, Microservices, <a href="https://github.com/Netflix/Hystrix" target="_blank" >Hystrix</a>, <a href="https://github.com/Netflix/ribbon" target="_blank" >Ribbon</a>, <a href="https://github.com/Netflix/zuul" target="_blank" >Zuul</a>|<a href="https://github.com/carnellj/spmia_overview" target="_blank" >GitHub</a>|
+
+## Blogs & Websites
+
+| Blog  	|      Author     	|      Subject     	|      Description     	|
+|----------	|:------	|:------	|:------	|
+|<a href="http://www.kennybastani.com/" target="_blank" >Kenny Bastani</a>|<a href="https://twitter.com/kennybastani" target="_blank" >Kenny Bastani</a>|Software Engineering|About building software - Microservices, Cloud Native Java, etc.,|
+|<a href="https://martinfowler.com/" target="_blank" >Martin Fowler</a>|<a href="https://twitter.com/martinfowler" target="_blank" >Martin Fowler</a>|Software Design|About various aspects of software development.|
+|<a href="https://microservices.io/" target="_blank" >Microservices</a>|<a href="https://twitter.com/crichardson" target="_blank" >Chris Richardson</a>|Microservices|About Microservices.|
