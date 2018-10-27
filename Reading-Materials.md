@@ -3,6 +3,7 @@
 |Book|Page Count|Author(s)|Subject|Code|
 |----------|------|------|------|------|
 |<a href="https://www.manning.com/books/spring-microservices-in-action" target="_blank" >Spring Microservices in Action</a>|384|<a href="https://github.com/carnellj" target="_blank" >John Carnell</a>|Java, Spring, Microservices, <a href="https://github.com/Netflix/Hystrix" target="_blank" >Hystrix</a>, <a href="https://github.com/Netflix/ribbon" target="_blank" >Ribbon</a>, <a href="https://github.com/Netflix/zuul" target="_blank" >Zuul</a>|<a href="https://github.com/carnellj/spmia_overview" target="_blank" >GitHub</a>|
+|<a href="https://www.packtpub.com/virtualization-and-cloud/microservices-deployment-cookbook" target="_blank" >Microservices Deployment Cookbook</a>|378|<a href="https://twitter.com/vikrammurugesan" target="_blank" >Vikram Murugesan</a>|Java, SpringBoot, Docker, Mesos, Microservices, Deployment, Kubernetes, Zookeeper, Consul, Nginx, Grafana, Kafka, Apache Spark, Cookbook|<a href="https://www.packtpub.com/books/content/support/27531" target="_blank" >Packt</a>|
 
 ## Blogs & Websites
 
