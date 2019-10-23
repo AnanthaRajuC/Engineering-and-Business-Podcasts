@@ -13,6 +13,7 @@ Podcasts featuring CTO's or directly aimed towards an audience of CTO's.
 |<a href="https://startupcto.io/" target="_blank" >StartupCTO.io</a>|<a href="https://twitter.com/owocki" target="_blank" >Owocki</a> and <a href="https://twitter.com/miles_matthias" target="_blank" >Miles Matthias</a>|Startup Engineering, Leadership|Startup engineering leadership podcast; because your CS degree didn't teach you to lead.|
 |<a href="https://moderncto.io/podcast/" target="_blank" >Modern CTO</a>|<a href="https://twitter.com/moderncto_io" target="_blank" >Joel Beasley</a>|Technology|ModernCTO is the place where CTO’s hang out. Listen in on our weekly podcast while we hang out with interesting Fortune 500 CTO’s in Aerospace, Artificial Intelligence, Robotics + Many more industries.|
 |<a href="http://www.ctosatwork.com/" target="_blank" >CTO's at Work</a>|-|Technology|A podcast series with Chief Technology Officers (CTOs) talk how they build great products.|
+|<a href="https://podcasts.apple.com/us/podcast/behind-the-tech-with-kevin-scott/id1381008946" target="_blank" >Behind The Tech with Kevin Scott</a>|<a href="https://twitter.com/kevin_scott" target="_blank" >Kevin Scott</a>|Technology|Behind the Tech invites listeners to geek out with an amazing line-up of tech heroes who have made our modern world possible.|
 
 ## Organizations
 
