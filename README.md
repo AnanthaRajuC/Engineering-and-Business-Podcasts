@@ -27,7 +27,7 @@ Podcasts featuring Organization specific topics (products), hosted by respective
 |<a href="https://soundcloud.com/pivotal-insights" target="_blank" >Pivotal Insights</a>|<a href="https://twitter.com/jeffreyfkelly" target="_blank" >Jeff Kelly</a>|Pivotal, Cloud Native|Pivotal Insights is a regular podcast where we talk about the transformative power that cloud-native platforms, modern application development and analytics have to unlock business value.|
 |<a href="https://www.gcppodcast.com/" target="_blank" >Google Cloud Platform Podcast</a>|<a href="https://twitter.com/gcppodcast" target="_blank" >gcppodcast</a>|Google, Cloud |Podcast about GCP Offerings & Technology.|
 |<a href="https://stackoverflow.blog/podcast/" target="_blank" >The Stack Overflow Podcast</a>|Sara Chipps, Paul Ford, and Ben Popper|Stack Overflow |A weekly conversation about working in software development, learning to code, and the art and culture of computer programming.|
-
+|<a href="https://soundcloud.com/lightbend" target="_blank" >Lightbend</a>|<a href="https://twitter.com/lightbend" target="_blank" >lightbend</a>|Lightbend|Lightbend is leading the enterprise transformation toward real-time, cloud-native applications.|
 
 
 ## O'Reilly Media
