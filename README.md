@@ -5,7 +5,7 @@ Compilation of Software Engineering and Business podcasts
 
 ## CTO Series
 
-Podcasts featuring CTO's or directly aimed towards an audience of CTO's.
+Podcast's featuring CTO's or directly aimed towards an audience of CTO's.
 
 | Podcast  	|      Host     	|      Genre/Topic     	|      Description     	|
 |----------	|:------	|:------	|:------	|
